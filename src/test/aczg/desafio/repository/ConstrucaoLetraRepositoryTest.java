@@ -1,4 +1,4 @@
-package test.aczg.repository;
+package test.aczg.desafio.repository;
 
 import aczg.desafio.domain.TextoMusical;
 import aczg.desafio.repository.ConstrucaoLetraRepository;

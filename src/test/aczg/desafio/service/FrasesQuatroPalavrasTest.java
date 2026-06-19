@@ -1,4 +1,4 @@
-package test.aczg.service;
+package test.aczg.desafio.service;
 
 import aczg.desafio.service.TextoParserService;
 import aczg.desafio.service.TextoParserServiceImpl;
